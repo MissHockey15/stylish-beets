@@ -1,0 +1,43 @@
+html {
+  font-family: 'PT Serif', serif;
+  background-color: #c9b5ae;
+}
+
+h1, h2 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+  color: #560f1d;
+}
+
+ol {
+  list-style-type: none;
+}
+
+a {
+  color: #9e1d3b;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'PT Sans', sans-serif;
+}
+
+a:hover {
+  color: #441331;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%
+}
+
+figcaption {
+  font-style: italic;
+  font-size: normal;
+  text-align:center;
+}
+
+.firstparagraph {
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
