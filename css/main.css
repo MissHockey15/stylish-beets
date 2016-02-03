@@ -1,6 +1,7 @@
 html {
   font-family: "PT Serif", serif;
   background-color: #c9b5ae;
+  line-height: 1.5;
 }
 
 h1, h2 {
@@ -43,6 +44,10 @@ blockquote {
   font-size: 1.5rem;
 }
 
+blockquote strong {
+  font-weight: normal;
+}
+
 .name {
   font-size: .8rem;
 }
@@ -53,7 +58,6 @@ ol {
 
 .serving {
   font-style: italic;
-  line-height: inherit;
 }
 
 dl dt {
